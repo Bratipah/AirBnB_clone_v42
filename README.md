@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Bratipah Kioko - [Github](https://github.com/Bratipah) / [Twitter](https://twitter.com/Alienate_B)
-Mercy Chebet - [Github](https://github.com/MercyChebet)
+
 
 Second part of Airbnb: Joann Vuong
 ## License
